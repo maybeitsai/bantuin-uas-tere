@@ -1,0 +1,31 @@
+{
+  "name": "crud-app-php-supabase",
+  "version": "1.0.0",
+  "description": "Web CRUD sederhana dengan PHP, Tailwind CSS dan Supabase",
+  "main": "index.php",
+  "scripts": {
+    "start": "php -S localhost:8000",
+    "dev": "php -S localhost:8000",
+    "test": "echo \"Visit http://localhost:8000/test-api.php to test the API\""
+  },
+  "keywords": [
+    "php",
+    "crud",
+    "supabase",
+    "tailwind",
+    "web-app"
+  ],
+  "author": "Developer",
+  "license": "MIT",
+  "dependencies": {
+    "php": ">=7.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/crud-app-php-supabase.git"
+  },
+  "engines": {
+    "php": ">=7.4"
+  }
+}
