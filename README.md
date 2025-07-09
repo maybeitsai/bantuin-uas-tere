@@ -15,7 +15,7 @@ Aplikasi web dinamis untuk mengelola data mahasiswa dengan operasi CRUD (Create,
 ## 📁 Struktur Proyek
 
 ```
-bantuin-uts-tere/
+bantuin-uas-tere/
 ├── config/
 │   ├── config.php          # Konfigurasi utama
 │   └── supabase.php        # Client Supabase
@@ -89,7 +89,7 @@ bantuin-uts-tere/
 
 2. **Akses Aplikasi**
    - Buka browser: `http://localhost:8000`
-   - Atau: `http://localhost/bantuin-uts-tere`
+   - Atau: `http://localhost/bantuin-uas-tere`
 
 ## 🎯 Cara Penggunaan
 
